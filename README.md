@@ -72,8 +72,6 @@ For macOS / Linux:
 
 ```cd The_ZK_Shooter```
 
-```python index.py```
-
 ---
 
 ## 4. Run The Game
