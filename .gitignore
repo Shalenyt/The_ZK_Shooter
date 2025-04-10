@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+*.log
+*.swp
+
+# Game assets (optional)
+*.db
+*.sqlite3
+*.wav
+*.ogg
+*.mp3
