@@ -1,0 +1,23 @@
+{
+  "hero1_1": {"x": 2, "y": 2, "width": 102, "height": 126},
+  "hero1_2": {"x": 107, "y": 2, "width": 102, "height": 126},
+  "bullet1": {"x": 1004, "y": 987, "width": 9, "height": 21},
+
+  "enemy1": {"x": 534, "y": 612, "width": 57, "height": 43},
+  "enemy1_down1": {"x": 267, "y": 347, "width": 57, "height": 43},
+  "enemy1_down2": {"x": 873, "y": 697, "width": 57, "height": 43},
+  "enemy1_down3": {"x": 267, "y": 296, "width": 57, "height": 43},
+  "enemy1_down4": {"x": 930, "y": 697, "width": 57, "height": 43},
+
+  "enemy2": {"x": 600, "y": 612, "width": 70, "height": 55},
+  "enemy2_down1": {"x": 850, "y": 2, "width": 70, "height": 55},
+  "enemy2_down2": {"x": 850, "y": 60, "width": 70, "height": 55},
+  "enemy2_down3": {"x": 850, "y": 118, "width": 70, "height": 55},
+  "enemy2_down4": {"x": 850, "y": 176, "width": 70, "height": 55},
+
+  "enemy3": {"x": 700, "y": 612, "width": 85, "height": 65},
+  "enemy3_down1": {"x": 2, "y": 900, "width": 85, "height": 65},
+  "enemy3_down2": {"x": 90, "y": 900, "width": 85, "height": 65},
+  "enemy3_down3": {"x": 178, "y": 900, "width": 85, "height": 65},
+  "enemy3_down4": {"x": 266, "y": 900, "width": 85, "height": 65}
+}
