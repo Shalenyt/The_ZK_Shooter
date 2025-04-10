@@ -43,13 +43,15 @@ assets/screenshot.png
 ```python --version```
 
 ### macOS
-'''brew install python'''
+```brew install python```
 
-'''python3 --version'
+```python3 --version```
 
 ### Linux (Debian/Ubuntu)
 ```sudo apt update```
+
 ```sudo apt install python3 python3-pip```
+
 ```python3 --version```
 
 ---
@@ -69,6 +71,7 @@ For macOS / Linux:
 ```git clone https://github.com/Shalenyt/The_ZK_Shooter.git```
 
 ```cd The_ZK_Shooter```
+
 ```python index.py```
 
 ---
