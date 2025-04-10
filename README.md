@@ -40,44 +40,46 @@ assets/screenshot.png
 - Download from: https://www.python.org/downloads/windows/
 - During installation → ✅ Check *Add Python to PATH*
 - Verify:
-python --version
+```python --version```
 
 ### macOS
-brew install python
-python3 --version
+'''brew install python'''
+
+'''python3 --version'
 
 ### Linux (Debian/Ubuntu)
-sudo apt update
-sudo apt install python3 python3-pip
-python3 --version
+```sudo apt update```
+```sudo apt install python3 python3-pip```
+```python3 --version```
 
 ---
 
 ## 2. Install Pygame
 
 For Windows:
-pip install pygame
+```pip install pygame```
 
 For macOS / Linux:
-pip3 install pygame
+```pip3 install pygame```
 
 ---
 
 ## 3. Clone the Project
 
 ```git clone https://github.com/Shalenyt/The_ZK_Shooter.git```
-cd The_ZK_Shooter
-python index.py
+
+```cd The_ZK_Shooter```
+```python index.py```
 
 ---
 
 ## 4. Run The Game
 
 Windows:
-python index.py
+```python index.py```
 
 macOS / Linux:
-python3 index.py
+```python3 index.py```
 
 ---
 
