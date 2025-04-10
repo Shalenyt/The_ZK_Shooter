@@ -20,7 +20,7 @@ Dodge enemies, fire missiles, and climb the leaderboard in this zk-themed arcade
 
 ## 📸 Game Preview
 
-assets/screenshot_020550.png
+![Game Screenshot](assets/screenshot_020550.png)
 
 ---
 
