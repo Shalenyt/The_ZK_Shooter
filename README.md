@@ -63,21 +63,21 @@ pip3 install pygame
 
 ---
 
-## 3. Run The Game
+## 3. Clone the Project
+
+```git clone https://github.com/Shalenyt/The_ZK_Shooter.git```
+cd The_ZK_Shooter
+python index.py
+
+---
+
+## 4. Run The Game
 
 Windows:
 python index.py
 
 macOS / Linux:
 python3 index.py
-
----
-
-## 💾 Clone the Project
-
-git clone https://github.com/Shalenyt/The_ZK_Shooter.git
-cd The_ZK_Shooter
-python index.py
 
 ---
 
